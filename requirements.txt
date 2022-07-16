@@ -1,0 +1,9 @@
+line-bot-sdk
+future
+Flask
+click
+Werkzeug
+jsonschema
+unicodecsv
+urllib3
+requests
